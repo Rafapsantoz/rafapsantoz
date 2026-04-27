@@ -3,7 +3,7 @@
 **DevOps Engineer em formação** | Infraestrutura · Automação · Confiabilidade
 
 Tecnólogo em ADS com 7 anos construindo e automatizando infraestruturas de TI.
-Hoje focado em DevOps, SRE e Cloud — estudando 4–6h/dia.
+Hoje focado em DevOps, SRE e Cloud.
 
 ---
 
@@ -22,7 +22,7 @@ Hoje focado em DevOps, SRE e Cloud — estudando 4–6h/dia.
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [system-health-monitor](#) | Monitor de métricas de servidor com alertas | Python · Docker |
-| [devops-pipeline-demo](#) | CI/CD completo com GitHub Actions | Actions · FastAPI · Docker Hub |
+| [devops-pipeline-study](#) | CI/CD completo com GitHub Actions | Actions · FastAPI · Docker Hub |
 | [infra-as-code-lab](#) | Ambiente IaC com provisionamento automatizado | Terraform · Compose · Bash |
 
 ---
