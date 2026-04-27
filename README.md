@@ -1,16 +1,36 @@
-## Hi there 👋
+# Rafael Santos
 
-<!--
-**Rafapsantoz/rafapsantoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer em formação** | Infraestrutura · Automação · Confiabilidade
 
-Here are some ideas to get you started:
+Tecnólogo em ADS com 7 anos construindo e automatizando infraestruturas de TI.
+Hoje focado em DevOps, SRE e Cloud — estudando 4–6h/dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack atual
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+---
+
+### Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [system-health-monitor](#) | Monitor de métricas de servidor com alertas | Python · Docker |
+| [devops-pipeline-demo](#) | CI/CD completo com GitHub Actions | Actions · FastAPI · Docker Hub |
+| [infra-as-code-lab](#) | Ambiente IaC com provisionamento automatizado | Terraform · Compose · Bash |
+
+---
+
+### Atualmente
+
+- 🎓 MBA em DevOps & Cloud AI — Impacta Digital
+- 📖 Estudando: Kubernetes · Terraform · GitHub Actions
+- 🔍 Aberto a vagas **DevOps / SRE Pleno — 100% remoto**
+
+📩 rafapsantoz@gmail.com | [LinkedIn](https://linkedin.com/in/rafapsantoz)
