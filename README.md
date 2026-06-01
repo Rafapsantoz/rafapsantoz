@@ -1,40 +1,52 @@
 # Rafael Santos
 
-**DevOps Engineer em formação** | Infraestrutura · Automação · Confiabilidade
+**Python Developer & DevOps Engineer** · Automação · Observabilidade · Workflows com IA
 
-Tecnólogo em ADS com 7 anos construindo e automatizando infraestruturas de TI.
-Hoje focado em DevOps, SRE e Cloud.
+> 6+ anos em infraestrutura crítica. Hoje construo ferramentas que resolvem problemas reais com Python e automação inteligente.
 
 ---
 
-### Stack atual
+### O que eu faço
+
+Sou o profissional que sabe busca unir **o que acontece embaixo** e com **o código em cima**.
+
+Meu foco está na interseção entre desenvolvimento e operações:
+- 🐍 **Python** para automações, integrações de sistemas e APIs
+- 🔁 **Workflows com IA** usando n8n + LLMs locais (Ollama) e em nuvem
+- 📊 **Observabilidade** com Prometheus, Grafana e Loki
+- 🐳 **Docker & infraestrutura** — do compose ao ambiente produtivo
+
+---
+
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-![Snake Animation](https://raw.githubusercontent.com/Rafapsantoz/rafapsantoz/output/github-contribution-grid-snake.svg)
+### Projetos
 
----
-
-### Projetos em destaque
-
-| Projeto | Descrição | Stack |
+| Projeto | O que resolve | Stack |
 |---|---|---|
-| [system-health-monitor](#) | Monitor de métricas de servidor com alertas | Python · Docker |
-| [devops-pipeline-study](#) | CI/CD completo com GitHub Actions | Actions · FastAPI · Docker Hub |
-| [infra-as-code-lab](#) | Ambiente IaC com provisionamento automatizado | Terraform · Compose · Bash |
+| [personal_assistent](https://github.com/Rafapsantoz/personal_assistent) | Deploy automatizado de n8n + Prometheus + Grafana + classificador de e-mails com LLM local | Docker · n8n · Ollama · Python · FastAPI |
+
+*(mais projetos em construção)*
 
 ---
 
 ### Atualmente
 
-- 🎓 MBA em DevOps & Cloud AI — Impacta Digital
-- 📖 Estudando: Kubernetes · Terraform · GitHub Actions
-- 🔍 Aberto a vagas **DevOps / SRE Pleno — 100% remoto**
+- 🎓 MBA em **Cloud & Devops AI** — Impacta Digital *(conclusão Set/2026)*
+- 🤖 Estudando: agentes de IA, LangChain, Claude Code
+- 🔍 Aberto a **freelas e contratos PJ** — remoto
 
-📩 rafapsantoz@gmail.com | [LinkedIn](https://linkedin.com/in/rafapsantoz)
+---
+
+📩 rafapsantoz@gmail.com · [LinkedIn](https://linkedin.com/in/rafapsantoz)
